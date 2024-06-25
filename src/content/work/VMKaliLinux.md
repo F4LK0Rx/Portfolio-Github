@@ -1,7 +1,7 @@
 ---
 title: VM Kali Linux
 publishDate: 2019-12-01 00:00:00
-img: /assets/logoKaliLinux.jpg
+img: /Portfolio-Github/assets/logoKaliLinux.jpg
 img_alt: logo kali linux
 description: |
   Installation d'une VM Kali Linux et utilisation de ses outils

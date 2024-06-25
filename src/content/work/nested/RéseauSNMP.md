@@ -1,7 +1,7 @@
 ---
 title: Réseau SNMP
 publishDate: 2020-03-04 00:00:00
-img: /assets/SNMP.jpg
+img: /Portfolio-Github/assets/SNMP.jpg
 img_alt: logo protocole SNMP
 description: |
   Supervision d'un réseau local avec GLPI et le protocole SNMP.

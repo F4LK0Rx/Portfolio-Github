@@ -1,7 +1,7 @@
 ---
 title: Réseau local
 publishDate: 2019-10-02 00:00:00
-img: /assets/reseaulocal.jpg
+img: /Portfolio-Github/assets/reseaulocal.jpg
 img_alt: logo reseau.
 description: |
   Mise en Place d'un Réseau Local chez Servagroupe à Lamballe
